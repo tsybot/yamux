@@ -2,7 +2,6 @@ package yamux
 
 import (
 	"bytes"
-	"errors"
 	"io"
 	"sync"
 	"sync/atomic"
